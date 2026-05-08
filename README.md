@@ -1,210 +1,93 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>About Me</title>
+# Hi 👋 I'm Kalaivani
 
-  <style>
-    *{
-      margin:0;
-      padding:0;
-      box-sizing:border-box;
-      font-family: 'Poppins', sans-serif;
-    }
+<div align="center">
 
-    body{
-      background: linear-gradient(135deg,#0f172a,#111827,#1e293b);
-      color:white;
-      min-height:100vh;
-      padding:40px;
-    }
+### 🚀 Aspiring Data Analyst & Python Developer
 
-    .container{
-      max-width:1200px;
-      margin:auto;
-    }
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Aspiring+Data+Analyst;Django+Backend+Developer;SQL+%7C+Power+BI+%7C+Tableau;Always+Learning+New+Things" />
 
-    .hero{
-      text-align:center;
-      padding:60px 20px;
-    }
+</div>
 
-    .hero h1{
-      font-size:4rem;
-      background: linear-gradient(to right,#38bdf8,#818cf8,#c084fc);
-      -webkit-background-clip:text;
-      color:transparent;
-      margin-bottom:20px;
-    }
+---
 
-    .hero p{
-      color:#cbd5e1;
-      font-size:1.2rem;
-      max-width:700px;
-      margin:auto;
-      line-height:1.8;
-    }
+# 🚀 About Me
 
-    .grid{
-      display:grid;
-      grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
-      gap:25px;
-      margin-top:50px;
-    }
+- 🌱 Currently learning **Python, SQL, Power BI, Tableau & Django**
+- 💻 Interested in **Backend Development & Data Analytics**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 🎯 Goal: Become a **Data Analyst by 2026**
+- ⚡ Love solving coding problems and building projects
 
-    .card{
-      background: rgba(255,255,255,0.05);
-      backdrop-filter: blur(10px);
-      border:1px solid rgba(255,255,255,0.1);
-      padding:30px;
-      border-radius:20px;
-      transition:0.4s ease;
-      box-shadow:0 8px 20px rgba(0,0,0,0.3);
-    }
+---
 
-    .card:hover{
-      transform:translateY(-10px);
-      border-color:#38bdf8;
-    }
+# 💻 Tech Stack
 
-    .card h2{
-      color:#38bdf8;
-      margin-bottom:20px;
-      font-size:1.5rem;
-    }
+<div align="center">
 
-    ul{
-      list-style:none;
-    }
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-    ul li{
-      margin-bottom:12px;
-      color:#e2e8f0;
-      position:relative;
-      padding-left:20px;
-    }
+</div>
 
-    ul li::before{
-      content:"✨";
-      position:absolute;
-      left:0;
-    }
+---
 
-    .skills{
-      display:flex;
-      flex-wrap:wrap;
-      gap:12px;
-    }
+# 📊 GitHub Stats
 
-    .skill{
-      background:#1e293b;
-      padding:10px 18px;
-      border-radius:30px;
-      border:1px solid #334155;
-      transition:0.3s;
-    }
+<div align="center">
 
-    .skill:hover{
-      background:#38bdf8;
-      color:black;
-      transform:scale(1.05);
-    }
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-    .footer{
-      margin-top:60px;
-      text-align:center;
-      color:#94a3b8;
-      font-size:0.95rem;
-    }
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
-    .highlight{
-      color:#38bdf8;
-      font-weight:bold;
-    }
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-    @media(max-width:768px){
-      .hero h1{
-        font-size:2.8rem;
-      }
-    }
-  </style>
-</head>
+</div>
 
-<body>
+---
 
-  <div class="container">
+# 🏆 Achievements
 
-    <section class="hero">
-      <h1>Hi, I'm Kalaivani 👋</h1>
+- ✅ Solved coding problems on LeetCode
+- ✅ Built Django backend projects
+- ✅ Learning complete Data Analytics roadmap
+- ✅ Improving problem-solving skills daily
 
-      <p>
-        Aspiring <span class="highlight">Data Analyst</span> &
-        <span class="highlight">Python Developer</span> passionate about
-        solving problems, building backend systems, and learning modern
-        technologies. Currently mastering Python, SQL, Power BI, Tableau,
-        Django, and Data Structures & Algorithms.
-      </p>
-    </section>
+---
 
-    <section class="grid">
+# 📚 Currently Focusing On
 
-      <div class="card">
-        <h2>🚀 About Me</h2>
-        <ul>
-          <li>Passionate Python Developer</li>
-          <li>Aspiring Data Analyst by 2026</li>
-          <li>Love solving LeetCode problems</li>
-          <li>Interested in APIs & Backend Development</li>
-          <li>Always learning new technologies</li>
-        </ul>
-      </div>
+```python
+skills = {
+    "Languages": ["Python", "SQL"],
+    "Frameworks": ["Django"],
+    "Data Analytics": ["Pandas", "Power BI", "Tableau"],
+    "Currently Learning": ["Advanced Python", "APIs", "DSA"]
+}
+```
 
-      <div class="card">
-        <h2>💻 Tech Stack</h2>
+---
 
-        <div class="skills">
-          <div class="skill">Python</div>
-          <div class="skill">SQL</div>
-          <div class="skill">Django</div>
-          <div class="skill">Pandas</div>
-          <div class="skill">Power BI</div>
-          <div class="skill">Tableau</div>
-          <div class="skill">Git</div>
-          <div class="skill">HTML</div>
-          <div class="skill">CSS</div>
-          <div class="skill">JavaScript</div>
-        </div>
-      </div>
+# 🌐 Connect With Me
 
-      <div class="card">
-        <h2>🏆 Achievements</h2>
-        <ul>
-          <li>Solved coding challenges on LeetCode</li>
-          <li>Built Django dashboard projects</li>
-          <li>Learning complete Data Analytics roadmap</li>
-          <li>Practicing DSA consistently</li>
-        </ul>
-      </div>
+<div align="center">
 
-      <div class="card">
-        <h2>📚 Currently Learning</h2>
-        <ul>
-          <li>Advanced Python</li>
-          <li>SQL Optimization</li>
-          <li>REST API Development</li>
-          <li>Power BI Dashboards</li>
-          <li>Data Visualization</li>
-        </ul>
-      </div>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
-    </section>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-    <div class="footer">
-      ⭐ Keep Learning • Keep Building • Keep Growing ⭐
-    </div>
+</div>
 
-  </div>
+---
 
-</body>
-</html>
+<div align="center">
+
+### ⭐ Keep Learning • Keep Building • Keep Growing ⭐
+
+</div>
