@@ -2,92 +2,123 @@
 
 <div align="center">
 
-### 🚀 Aspiring Data Analyst & Python Developer
+### 🚀 Aspiring AI Engineer | Python Developer | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Aspiring+Data+Analyst;Django+Backend+Developer;SQL+%7C+Power+BI+%7C+Tableau;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Python+Developer;Flask+%7C+Django+Developer;Flutter+App+Developer;DSA+Enthusiast;Building+AI-Powered+Applications" />
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🌱 Currently learning **Python, SQL, Power BI, Tableau & Django**
-- 💻 Interested in **Backend Development & Data Analytics**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🎯 Goal: Become a **Data Analyst by 2026**
-- ⚡ Love solving coding problems and building projects
+* 🎓 Pre-Final Year Engineering Student
+* 🤖 Passionate about Artificial Intelligence and Software Development
+* 💻 Building projects using Python, Flask, Django, Flutter, and Generative AI
+* 🧠 Practicing Data Structures and Algorithms regularly
+* 🔍 Exploring RAG, LangChain, LangGraph, and AI Agent Development
+* 🎯 Goal: Become an AI Engineer and build impactful AI products
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
+
+### Programming Languages
+
+* Python
+* C
+* SQL
+
+### Frameworks & Tools
+
+* Flask
+* Django
+* Flutter
+* Git & GitHub
+
+### AI & Data
+
+* LangChain
+* LangGraph
+* FAISS
+* Pandas
+* SQLite
+
+### Learning
+
+* Generative AI
+* RAG Applications
+* AI Agents
+* System Design
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Cloud-Based Logging & Monitoring System
+
+* Developed secure authentication and role-based access control
+* Implemented logging and monitoring features
+* Built using Flask, SQLite, HTML, CSS, and Python
+
+### 🔹 TerraNext AI
+
+* Smart agriculture-focused application
+* Built using Flutter and AI-powered features
+
+### 🔹 AI & Hackathon Projects
+
+* Working on AI-driven solutions for real-world problem statements
+* Exploring LLM-powered applications and intelligent workflows
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalaivanisomasundaram07\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalaivanisomasundaram07\&layout=compact)
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+## 🏆 Achievements
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalaivanisomasundaram07&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalaivanisomasundaram07&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kalaivanisomasundaram07&theme=tokyonight&hide_border=true)
-
-</div>
+* ✅ Built multiple Python and Web Development projects
+* ✅ Participated in Hackathons and Innovation Challenges
+* ✅ Actively practicing Data Structures & Algorithms
+* ✅ Exploring AI, GenAI, and Intelligent Systems
 
 ---
 
-# 🏆 Achievements
-
-- ✅ Solved coding problems on LeetCode
-- ✅ Built Django backend projects
-- ✅ Learning complete Data Analytics roadmap
-- ✅ Improving problem-solving skills daily
-
----
-
-# 📚 Currently Focusing On
+## 📚 Currently Learning
 
 ```python
 skills = {
-    "Languages": ["Python", "SQL"],
-    "Frameworks": ["Django"],
-    "Data Analytics": ["Pandas", "Power BI", "Tableau"],
-    "Currently Learning": ["Advanced Python", "APIs", "DSA"]
+    "Languages": ["Python", "SQL", "C"],
+    "Web Development": ["Flask", "Django"],
+    "Mobile Development": ["Flutter"],
+    "AI": ["LangChain", "LangGraph", "RAG", "LLMs"],
+    "Database": ["SQLite"],
+    "Currently Learning": [
+        "Generative AI",
+        "AI Agents",
+        "System Design",
+        "Advanced DSA"
+    ]
 }
 ```
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-
-</div>
+* GitHub: https://github.com/kalaivanisomasundaram07
+* LinkedIn: YOUR_LINKEDIN_URL
 
 ---
 
-<div align="center">
-
-### ⭐ Keep Learning • Keep Building • Keep Growing ⭐
-
-</div>
+⭐ Always learning, building, and improving.
