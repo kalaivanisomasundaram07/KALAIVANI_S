@@ -1,124 +1,182 @@
-# Hi 👋 I'm Kalaivani
-
 <div align="center">
 
-### 🚀 Aspiring AI Engineer | Python Developer | Problem Solver
+# Hi 👋, I'm Kalaivani S
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=800&lines=Aspiring+AI+Engineer;Python+Developer;Flask+%7C+Django+Developer;Flutter+App+Developer;DSA+Enthusiast;Building+AI-Powered+Applications" />
+### 🚀 Aspiring AI Engineer | Backend Developer | Problem Solver
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Backend+Developer;Machine+Learning+Enthusiast;LLM+%7C+Agentic+AI+%7C+RAG;Python+Developer;Always+Learning+New+Things"/>
+
+![](https://komarev.com/ghpvc/?username=kalaivanisomasundaram07&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-* 🎓 Pre-Final Year Engineering Student
-* 🤖 Passionate about Artificial Intelligence and Software Development
-* 💻 Building projects using Python, Flask, Django, Flutter, and Generative AI
-* 🧠 Practicing Data Structures and Algorithms regularly
-* 🔍 Exploring RAG, LangChain, LangGraph, and AI Agent Development
-* 🎯 Goal: Become an AI Engineer and build impactful AI products
+🎓 Pre-final Year B.E. Computer Science Engineering Student
 
----
+🤖 Passionate about Artificial Intelligence, Machine Learning, Backend Development and Generative AI
 
-## 💻 Tech Stack
+💻 Interested in building intelligent applications using AI and modern backend technologies
 
-### Programming Languages
+🌱 Currently learning and exploring
 
-* Python
-* C
-* SQL
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI
+- Prompt Engineering
+- Agentic AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangGraph
+- CrewAI
 
-### Frameworks & Tools
+🧩 Strong foundation in
 
-* Flask
-* Django
-* Flutter
-* Git & GitHub
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Computer Networks
+- Backend Development
 
-### AI & Data
-
-* LangChain
-* LangGraph
-* FAISS
-* Pandas
-* SQLite
-
-### Learning
-
-* Generative AI
-* RAG Applications
-* AI Agents
-* System Design
+🔥 Solved **400+ LeetCode Problems**
 
 ---
 
-## 🚀 Featured Projects
+# 💻 Tech Stack
 
-### 🔹 Cloud-Based Logging & Monitoring System
+### 👨‍💻 Languages
 
-* Developed secure authentication and role-based access control
-* Implemented logging and monitoring features
-* Built using Flask, SQLite, HTML, CSS, and Python
-
-### 🔹 TerraNext AI
-
-* Smart agriculture-focused application
-* Built using Flutter and AI-powered features
-
-### 🔹 AI & Hackathon Projects
-
-* Working on AI-driven solutions for real-world problem statements
-* Exploring LLM-powered applications and intelligent workflows
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+### 🤖 Artificial Intelligence
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-102230?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-102230?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-102230?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-102230?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-102230?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-102230?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-102230?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-102230?style=for-the-badge)
+
+---
+
+### 🌐 Backend
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 Data Analytics
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+---
+
+### ⚙️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+
+---
+
+# 🏆 Achievements
+
+- 🧩 Solved **400+ LeetCode Problems**
+- 🏅 1400+ LeetCode Contest Rating
+- 💼 AI Engineer & Backend Developer Intern
+- 🤖 Generative AI Intern
+- ☁️ Google AI-ML Virtual Intern
+- 🚀 Passionate about building AI-powered applications
+
+---
+
+# 📜 Certifications
+
+- ✅ Artificial Intelligence Foundation
+- ✅ Machine Learning
+- ✅ Deep Learning
+- ✅ Natural Language Processing
+- ✅ Generative AI
+- ✅ Prompt Engineering
+- ✅ Claude API Fundamentals
+- ✅ AWS Cloud Practitioner Essentials
+- ✅ MongoDB
+- ✅ SQL
+- ✅ NPTEL IoT
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalaivanisomasundaram07&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalaivanisomasundaram07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kalaivanisomasundaram07&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kalaivanisomasundaram07&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:kalaivanis.cse2024@citchennai.net">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kalaivanisomasundaram07">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kalaivanisomasundaram07\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalaivanisomasundaram07\&layout=compact)
+### ⭐ *"Learning, Building, and Growing One Step at a Time."*
 
 </div>
-
----
-
-## 🏆 Achievements
-
-* ✅ Built multiple Python and Web Development projects
-* ✅ Participated in Hackathons and Innovation Challenges
-* ✅ Actively practicing Data Structures & Algorithms
-* ✅ Exploring AI, GenAI, and Intelligent Systems
-
----
-
-## 📚 Currently Learning
-
-```python
-skills = {
-    "Languages": ["Python", "SQL", "C"],
-    "Web Development": ["Flask", "Django"],
-    "Mobile Development": ["Flutter"],
-    "AI": ["LangChain", "LangGraph", "RAG", "LLMs"],
-    "Database": ["SQLite"],
-    "Currently Learning": [
-        "Generative AI",
-        "AI Agents",
-        "System Design",
-        "Advanced DSA"
-    ]
-}
-```
-
----
-
-## 🌐 Connect With Me
-
-* GitHub: https://github.com/kalaivanisomasundaram07
-* LinkedIn: YOUR_LINKEDIN_URL
-
----
-
-⭐ Always learning, building, and improving.
