@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=38BDF8&center=true&vCenter=true&width=850&lines=Aspiring+AI+Engineer;Backend+Developer;Machine+Learning+Enthusiast;LLM+%7C+Agentic+AI+%7C+RAG;Python+Developer;Always+Learning+New+Things"/>
 
-![](https://komarev.com/ghpvc/?username=kalaivanisomasundaram07&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
 
@@ -40,7 +39,7 @@
 - Computer Networks
 - Backend Development
 
-🔥 Solved **400+ LeetCode Problems**
+🔥 Solved **470+ LeetCode Problems**
 
 ---
 
@@ -49,7 +48,6 @@
 ### 👨‍💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -87,7 +85,6 @@
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -102,11 +99,11 @@
 
 # 🏆 Achievements
 
-- 🧩 Solved **400+ LeetCode Problems**
+- 🧩 Solved **470+ LeetCode Problems**
 - 🏅 1400+ LeetCode Contest Rating
-- 💼 AI Engineer & Backend Developer Intern
+- 💼 AI Engineer & Backend Developer Intern at Infosys and Prodapt
 - 🤖 Generative AI Intern
-- ☁️ Google AI-ML Virtual Intern
+- ☁️ Google AI-ML Virtual Intern at Eduskills
 - 🚀 Passionate about building AI-powered applications
 
 ---
@@ -123,39 +120,7 @@
 - ✅ AWS Cloud Practitioner Essentials
 - ✅ MongoDB
 - ✅ SQL
-- ✅ NPTEL IoT
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kalaivanisomasundaram07&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalaivanisomasundaram07&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=kalaivanisomasundaram07&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kalaivanisomasundaram07&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
+- ✅ NPTEL IoT and Data Analyts using python.
 
 ---
 
